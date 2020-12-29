@@ -11,3 +11,4 @@ interface IBluetoothAudioCallbacks {
     a2dp_get_connection_status();
     a2dp_get_sink_latency();
 };
+
